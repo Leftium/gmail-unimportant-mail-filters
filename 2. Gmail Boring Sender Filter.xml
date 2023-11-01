@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001691350501657*6663142322663328315,z0000001691350502605*3174464106217365898,z0000001691350503460*1029243096705235379</id>
+	<updated>2023-11-01T13:34:17Z</updated>
+	<author>
+		<name>Leftium</name>
+		<email>leftium@example.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001691350501657*6663142322663328315</id>
+		<updated>2023-11-01T13:34:17Z</updated>
+		<content></content>
+		<apps:property name='from' value='@firstpay.co.kr| @fiserv.com| @messaging.squareup.com| @splunk.com| @comfycomfy.com| brian@dancemardigras.com| @lpoint.com| @pinggy.io| @hanssem.com| @codesandbox.io| @order.dell.com| hello@earthrunners.com| store@shopblenheimgingerale.com| tilley@tilley.com| @accts.epicgames.com| @amazon.com| @asktheheadhunter.com| @auction.co.kr| @banking.salliemae.com| @biberk.com| @bluevirtual.com| @clientexperience.citi.com| @crm.interpark.com| @e-mail.microsoft.com| @ealerts.bankofamerica.com| @ebay.com| @fiscal.treasury.gov| @godaddy.com| @googlegroups.com| @googlemail.com| @investordelivery.com| @lists.sourceforge.net| @mail.sp.sofi.com| @mvno.kt-bill.kt.com| @notification.capitalone.com| @o.sofi.org| @paypal.com| @txt.voice.google.com| @ups.com| @welcome.americanexpress.com| aloha@shortwave.com| ant@supabase.io| appleid@id.apple.com| citibank.message@| contact@executeprogram.com| csealumni@umn.edu| feedback@minaal.com| spark@readdle.com| venmo@venmo.com| waitlist@isthereanydeal.com'/>
+		<apps:property name='doesNotHaveTheWord' value='{ unsubscribe subject:광고  }'/>
+		<apps:property name='label' value='fyi'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001691350502605*3174464106217365898</id>
+		<updated>2023-11-01T13:34:17Z</updated>
+		<content></content>
+		<apps:property name='from' value='@emailonline.chase.com| robin_j@naver.com| j_ote@hackerx.co| @cc.yahoo-inc.com| @chrometa.com| @dreamhost.com| @googlecode.com| @livejournal.com| @perception-point.io| @seoulplayers.com| afund@umn.edu| cs@umn.edu| i-jkwon@microsoft.com| linkedin@em.linkedin.com| pwexpire@umn.edu| umatters@umn.edu| bounce+signup@fastmail.fm'/>
+		<apps:property name='doesNotHaveTheWord' value='{ unsubscribe subject:광고  }'/>
+		<apps:property name='label' value='fyi'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001691350503460*1029243096705235379</id>
+		<updated>2023-11-01T13:34:17Z</updated>
+		<content></content>
+		<apps:property name='from' value='naverpayadmin_noreply| success| onlinemart| itinerary| anaintrsv| vessifootwear| cm.bsaefiling| noreply_us| ownerverification| onboarding| Specialrisk| Confirmation| policies| custsrv| notifs| team| admin| theplan| customercscenter| marketing| alerts| billing_info| billpay| communications| customer_service| do-not-reply| do_not_reply| emsnts| info| newsletter| news| no-reply| no.reply| noreply| notifications| notification| notify| orders| postmaster| support| tracking| updates| webmaster'/>
+		<apps:property name='doesNotHaveTheWord' value='{ unsubscribe subject:광고 }'/>
+		<apps:property name='label' value='fyi'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
