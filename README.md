@@ -1,4 +1,4 @@
-# Automatically Clean up your Inbox with Two Simple Filters/Rules
+# Automatic Inbox Cleanup with Two Simple Filters/Rules
 
 <p align="center">
   <img width="380" height="429" src="https://github.com/Leftium/gmail-unimportant-mail-filters/assets/381217/f49a8e40-cd5a-4e2c-abf2-6e6097029e3a">
