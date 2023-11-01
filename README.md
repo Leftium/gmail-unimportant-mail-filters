@@ -1,5 +1,14 @@
 # Automatically Clean up your Inbox with Two Simple Filters/Rules
 
+<p align="center">
+  <img width="380" height="429" src="https://github.com/Leftium/gmail-unimportant-mail-filters/assets/381217/f49a8e40-cd5a-4e2c-abf2-6e6097029e3a">
+</p>
+  
+
+
+
+
+
 Last month I received 1,236 emails, but only 47 emails reached my inbox. These were the truly important emails I wanted to see, mostly sent from real people. These are the only emails that triggered a notification on my phone as soon as they hit my inbox.
 
 The other 96% of the emails were silently and automatically filed into other categories/labels, without a single notification. About once a day, I take a few seconds to check them in bulk. I just scan the subjects and senders to mark a few bulk/automated emails that interest me. Then two keystrokes marks all of them as read. Ten, twenty, a hundred at a time!
