@@ -23,7 +23,7 @@ Follow the links, click "Create Filter", then finish wizard.
 1. [Unsubscribe][filter-unsubscribe]
 2. [Boring Sender Part I][filter-boring-sender-1]
     - [Boring Sender Part II][filter-boring-sender-2]
-    - [Boring Sender Part II][filter-boring-sender-3]
+    - [Boring Sender Part III][filter-boring-sender-3]
 3. [Vanguard][filter-vanguard]
 
 ### Gmail Filter XML Exports
