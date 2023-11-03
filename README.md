@@ -4,6 +4,9 @@
   <img width="380" height="429" src="https://github.com/Leftium/gmail-unimportant-mail-filters/assets/381217/f49a8e40-cd5a-4e2c-abf2-6e6097029e3a">
 </p>
 
+<p align="center">
+<small><b>Only 47 important emails reached my inbox out of 1,236 total emails received in October 2023.</b></small>
+</p>
 
 Last month I received 1,236 emails, but only 47 emails reached my inbox. These were the truly important emails I wanted to see, mostly sent from real people. These are the only emails that triggered a notification on my phone as soon as they hit my inbox.
 
